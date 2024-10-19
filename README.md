@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Sadjad, and i'm an IE undergraduate student interested in all things Python & Statistics!  
-* 📚 I am currently working on completing my bachelor's degree  
-* 💻 I recently completed several academic projects in the fields of data analysis and machine learning  
-* 📭 You can contact me via the following email address:  
+My name is Sadjad, and I hold a B.Sc. in Industrial Engineering. I'm passionate about machine learning, deep learning, and applied statistics!!  
+* 📚 I am constantly learning and exploring new techniques in machine learning and deep learning 
+* 💻 I've completed several academic and personal projects in machine learning and applied statistics
+* 📭 Feel free to reach out to me at:
      > sadjadbaniasad@gmail.com
